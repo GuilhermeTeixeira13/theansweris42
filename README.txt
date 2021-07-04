@@ -1,4 +1,7 @@
 # theansweris42
+
+How to use:
+  After download, put the files all together in the same folder and execute "./tp1" in CLI.
 -----------------------------------------------------------------------------------------------------------------------
 * Problem *
 Let's play a simple game involving money. If I give you an initial sum, let's say N euros, you must return me money from this sum according to pre-established rules. If you can, with these rules you have exactly 42 euros in hand, you won the game and keep this sum.
